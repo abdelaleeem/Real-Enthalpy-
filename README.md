@@ -1,4 +1,5 @@
 ## This code is for Real Energy Balance calculations [ideal + residual] for a Upgrading Combined Vaccum Gas oil to Diesel mainly and other petroleum cuts like Kerosene, Naphtha and light gases.
+## NOTE: Residual Enthalpy means that you take pressure into consideration in your calculations not only temperature as in the case of the ideal state.
 - Hydrocracking unit process flow sheet link : https://drive.google.com/file/d/1MnexSh1_KyDo55NWWlCqBPb-vlRJPboP/view?usp=drive_link
 - In Chemical Engineering whenever you design a process you have to calculate and deliver essential deliverables and tables and Energy Balance table is one of them.
 - It refers to the accounting of energy within a chemical process or system. It involves tracking the flow of energy in various forms (like heat, work, or chemical energy) through a process to ensure that energy is conserved according to the First Law of Thermodynamics, which states that energy cannot be created or destroyed, only transferred or transformed.
